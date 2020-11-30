@@ -32,6 +32,7 @@ if __name__ == '__main__':
 ```
 * 我们的数据集文件夹是这样的
 
+```
 .
 ├── Annotations
 │   ├── test
@@ -58,6 +59,7 @@ if __name__ == '__main__':
     └── val
         ├── 0001.jpg
         └── 0002.jpg
+```
 
 * Annotations文件夹里面放的是xml文件
 * JPEGImages文件夹里放的是对应于xml的图片文件
