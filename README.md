@@ -3,7 +3,7 @@
 
 - [VOC、COCO数据集、Paddle中X2coco的说明](./x2coco_description.md)
 - [coco数据集评价指标说明](./FAQ2.md)
-- 单类目标的召回和精度如何统计;（待更新）
+- [单类目标的召回和精度如何统计](./FAQ5.md)
 - 如何进行配合vdl进行可视化展示; 
 - [对于模型的结构了解不清晰, 对于加载与训练模型的一些warning有疑问](./FAQ5.md)
 - [PaddleDetection将训练的记录保存成txt](./FAQ6.md)
