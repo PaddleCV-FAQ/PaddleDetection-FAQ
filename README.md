@@ -11,3 +11,4 @@
 - [yolo中重新聚类产生的anchor导致训练不成功](./kMeans.md)
 - coco评测指标, 如何对IOU为0.5, 0.75等值的情况下精度的如何计算。
 - [PaddleDetection中Yolo系列修改anchor的方法](./FAQ10.md)
+- [如何选择用来预测的模型文件](./FAQ11.md)
